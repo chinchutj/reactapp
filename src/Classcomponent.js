@@ -11,7 +11,7 @@ class Classcomponent extends Component{
     }
 
     myClass=()=>{
-        document.getElementById("cp2").innerHTML='10 aug 1994';
+        document.getElementById("cp2").innerHTML='10 august 1994';
    
     }
    
